@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node src/app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugenia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^9.28.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jest": "^30.0.0",
+    "mongoose": "^8.15.1"
+  }
+}
